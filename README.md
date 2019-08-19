@@ -2,7 +2,7 @@
 
 This web server works with Firefox browser. 
 
-The server is capable of displaying hot links to files and directories stored on the server and serving them through Firefox to the user. 
+The server is capable of displaying hot links to text and html files and directories stored on the server and serving them through Firefox to the user. 
 
 The user of the Firefox browser can navigate directories through the hot links. 
 
